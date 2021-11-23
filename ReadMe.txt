@@ -1,1 +1,1 @@
-The headerfiles used in the program varycompared to the default header files installed using mingw
+The header files used in the program vary compared to the default header files installed using mingw
